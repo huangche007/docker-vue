@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <h2>Docker+Nginx+DaoCloud+VueJs</h2>
+    <h2>Docker+Nginx+DaoCloud+VueJs之项目自动部署</h2>
   </div>
 </template>
 
